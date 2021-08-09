@@ -1,2 +1,2 @@
 # Mocking
-Unit tests with some mocking example.
+Unit tests examples with some mocking.
